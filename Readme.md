@@ -13,3 +13,6 @@ présent dans ./backend/build/libs
 # Run le server
 java -jar /path/to/backend-0.0.1-SNAPSHOT.jar
 
+
+# Run l'application
+```docker compose up```
