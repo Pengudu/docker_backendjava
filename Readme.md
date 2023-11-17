@@ -16,3 +16,11 @@ java -jar /path/to/backend-0.0.1-SNAPSHOT.jar
 
 # Run l'application
 ```docker compose up```
+
+# Pipeline Jenkins
+./pipeline.txt
+remplacer $token par votre token
+# dev Backend:
+Pengudu  
+Scarfire54
+
