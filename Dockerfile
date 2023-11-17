@@ -13,7 +13,7 @@ COPY --from=build /home/gradle/build/libs/backend-0.0.1-SNAPSHOT.jar /
 
 
 
-ENTRYPOINT [ "java","-jar","./backend-0.0.1-SNAPSHOT.jar" ] 
+ENTRYPOINT [ "java","-jar","/backend-0.0.1-SNAPSHOT.jar" ] 
 
 
 
