@@ -16,6 +16,8 @@ java -jar /path/to/backend-0.0.1-SNAPSHOT.jar
 
 # Run l'application
 ```docker compose up```
+#si erreur COPY
+il faut rename backend-0.0.1-SNAPSHOT.jar avec de nouveau caractères...  
 
 # Pipeline Jenkins
 ./pipeline.txt
